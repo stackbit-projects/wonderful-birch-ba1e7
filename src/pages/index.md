@@ -56,5 +56,7 @@ sections:
       title: Discover
       url: /store
       style: secondary
+  - section_id: lorem-ipsum
+    type: store_section
 template: home
 ---
